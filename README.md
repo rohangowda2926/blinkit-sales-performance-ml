@@ -25,6 +25,17 @@ model to analyze how marketing expenditure impacts sales performance.
 - Scikit-learn
 - Matplotlib, Seaborn
 
-## How to Run
-```bash
-pip install -r requirements.txt
+## Project Structure
+blinkit-sales-performance-ml/
+├── data/
+│   └── sample_data.csv        # https://www.kaggle.com/datasets/akxiit/blinkit-sales-dataset.
+├── notebooks/
+│   └── eda_and_modeling.ipynb
+├── src/
+│   ├── preprocess.py
+│   ├── train.py
+│   └── evaluate.py
+├── requirements.txt
+├── README.md
+└── .gitignore
+
