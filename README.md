@@ -1,4 +1,4 @@
-# blinkit-sales-performance-ml
+# Blinkit sales performance using ML
 Machine learning project to analyze the impact of marketing spend on sales performance.
 # Predicting Sales Performance for Blinkit Marketing
 
